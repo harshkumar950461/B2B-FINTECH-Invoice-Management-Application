@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+/* 
+.nav{
+  background-color: #095f90;
+}
+input {
+  width: 450px;
+  padding: 0px 15px;
+}
+
+input,
+input::-webkit-input-placeholder {
+  font-size: 15px;
+  line-height: 4;
+  color:rgb(0, 123, 255);
+}
+.btnplaylist {
+  background-image: url("reload.png");
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+} */
